@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e70fd1137669c6e871a8b323",
+  "owner": "ghjwesbhmf",
+  "repo": "page-706c8bbb0be46ab7f70ecf5f",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "706c8bbb0be46ab7f70ecf5f",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7ddb2a5ab07a06b052dd5519d4edb23d66b956d7e2d7825d309d603a6dde6e75",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云是面向跨境访问与日常加速的机场订阅服务介绍页，整理套餐对比、使用场景、操作说明与客户端下载入口，方便按需完成配置。",
+          "AI_DESCRIPTION": "龙猫云是面向跨境访问与日常加速的机场订阅服务介绍页，整理套餐对比、使用场景、操作说明与客户端下载入口，方便按需完成配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#F4F0E6;color:#1C2B21;line-height:1.75;font-size:16px}a{color:#1F5C3A;text-decoration:none}header{background:#143D2B;color:#F4F0E6;padding:14px 0} .wrap{max-width:1080px;margin:0 auto;padding:0 18px} .nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px} .brand-mark{font-weight:700;letter-spacing:.12em;font-size:13px} header nav{display:flex;flex-wrap:wrap} header nav a{color:#E7F1E6;font-size:14px;margin:4px 12px 4px 0} .hero{padding:46px 0 20px;border-bottom:1px solid #D7E2D3} .kicker{color:#2D6A4F;font-size:12px;letter-spacing:.28em} h1{font-size:34px;line-height:1.28;margin:10px 0 14px;color:#0F2419} .lede{font-size:18px;color:#33463A;max-width:38em;margin:0} .split{display:flex;gap:36px;align-items:flex-start;padding:28px 0 8px} .col-main{flex:1.45;min-width:0} .col-side{flex:1;min-width:0} h2{font-size:24px;color:#143D2B;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #C5D5C4} h3{font-size:18px;color:#1F5C3A;margin:22px 0 8px} p{margin:0 0 14px} .panel{background:#FFFDF8;border:1px solid #D7E2D3;padding:18px 20px;margin:0 0 16px} .toc li{margin:0 0 8px} .scene{border-left:4px solid #2D6A4F;padding:2px 0 2px 14px;margin:0 0 16px;background:transparent} .plans-band{background:#143D2B;color:#F4F0E6;padding:40px 0;margin:28px 0} .plans-band h2{color:#F4F0E6;border-bottom-color:#3A6B54} .plans-band p{color:#D5E5D8} .inject{width:100%;overflow-x:auto} .step{margin:0 0 12px;padding:16px 16px 16px 58px;position:relative;background:#FFFDF8;border:1px solid #D7E2D3} .num{position:absolute;left:16px;top:16px;width:28px;height:28px;background:#1F5C3A;color:#FFFDF8;text-align:center;line-height:28px;font-size:14px;font-weight:700} .note{font-size:14px;color:#45584B} details{background:#FFFDF8;border:1px solid #D7E2D3;margin:0 0 10px;padding:2px 14px 8px} summary{cursor:pointer;font-weight:600;padding:12px 0;color:#143D2B} .clients{padding:8px 0 12px} footer{padding:26px 0 40px;color:#5B6E62;font-size:13px;border-top:1px solid #D7E2D3;margin-top:12px} @media(max-width:760px){.split{flex-direction:column;gap:4px}h1{font-size:28px}.hero{padding:28px 0 16px}header nav a{margin-right:14px}}</style><header><div class=\"wrap nav\"><div class=\"brand-mark\">龙猫云 · 订阅手册</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">指南</a><a href=\"#faq\">问答</a></nav></div></header><main><div class=\"wrap hero\"><div class=\"kicker\">机场订阅 / VPN 加速 / 客户端</div><h1>龙猫云</h1><p class=\"lede\">这是一份写给准备使用龙猫云的人看的说明：先弄清它解决什么问题，再对照套餐，最后把订阅导入客户端。不堆参数，只把路径讲清楚。</p></div><div class=\"wrap split\"><div class=\"col-main\"><section id=\"intro\"><h2>品牌简介</h2><p>龙猫云是面向跨境访问与日常网络加速需求的机场订阅服务。用户完成订阅后，会得到一份可导入主流代理客户端的配置，用来访问被限制的站点、稳定远程协作，或改善跨境内容的连通性。</p><p>和把线路完全封装在单一 App 里的传统 VPN 不同，机场更强调「订阅 + 客户端」：线路和规则在订阅里更新，客户端负责连接、分流与节点切换。龙猫云按这个方式组织服务，适合愿意花几分钟完成一次导入、之后按自己习惯使用的人。</p><p>本页是龙猫云的介绍与操作入口，重点放在套餐对比、使用场景和客户端下载，方便你在付款前确认流程是否匹配自己的设备与用途。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><h3>查阅资料与海外站点</h3><p>学术页面、开发文档、国际媒体和部分工具站点常会因网络路径不稳定而打不开。把订阅导入客户端后，按需选择节点即可继续检索，不必把整台设备长期挂在加速状态。</p></div><div class=\"scene\"><h3>流媒体与内容访问</h3><p>看片、听播客或追更新时，关键是连通和画质是否可接受。不同套餐对流媒体解锁范围并不相同，选择前先看套餐说明，再在客户端里切换线路对比实际播放情况。</p></div><div class=\"scene\"><h3>远程办公与协作</h3><p>邮件、代码仓库、设计稿和会议工具如果走默认线路容易中断，可把这些域名交给代理。办公场景更看重同时在线设备数和连接稳定性，而不是把流量一次用在大文件下载上。</p></div><div class=\"scene\"><h3>游戏与实时通讯</h3><p>对延迟敏感的对局、语音和即时消息，需要单独判断是否值得使用带游戏加速说明的套餐。连接后观察丢包与延迟变化，不合适就换线路，不要在游戏过程中反复重装客户端。</p></div></section></div><aside class=\"col-side\"><div class=\"panel\"><h3>本页阅读顺序</h3><ol class=\"toc\"><li>用简介确认龙猫云是不是你要的机场订阅。</li><li>对照使用场景，判断自己属于浏览、观影、办公还是游戏。</li><li>进入套餐对比，按流量和设备数做选择。</li><li>到客户端区域下载对应系统的软件。</li><li>按操作说明导入订阅，再用问答排查常见卡点。</li></ol></div><div class=\"panel\"><h3>开始之前</h3><p class=\"note\">准备好要使用的手机或电脑系统名称，确认你可以接受「先订阅、再导入客户端」的流程。龙猫云不替代杀毒或系统更新，只处理网络路径。</p><p class=\"note\">如果你完全没有接触过 Clash、Surge 一类工具，先看操作说明第四节，再回到套餐，避免下载错客户端。</p></div></aside></div><section class=\"plans-band\" id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p>挑选龙猫云套餐时，先看每月流量是否覆盖你的实际使用，再看允许同时在线的设备数量，最后才考虑工单响应、专线或定制路由这类加项。额度、价格与权益以下方卡片为准，正文不再复述数字，避免和正式套餐不一致。</p><p>个人轻度浏览通常从较低档看起；多设备家庭或需要更完整流媒体解锁的人，再往上对比。团队或工作室把设备数和专属支持放在流量前面考虑。年付只是付款周期的优惠写法，不改变套餐本身的使用方式。</p><div class=\"inject\">{{PLANS_HTML}}</div></div></section><div class=\"wrap\"><section class=\"clients\" id=\"clients\"><h2>客户端下载</h2><p>龙猫云通过订阅链接在各平台客户端中生效。请按自己的系统选择软件，下载完成后回到本页的操作说明完成导入。客户端入口由页面统一维护，请以下方列表为准，不要在来路不明的网盘里寻找所谓安装包。</p><div class=\"inject\">{{CLIENTS_HTML}}</div></section></div><div class=\"wrap split\" id=\"guide\"><div class=\"col-main\"><h2>操作说明</h2><div class=\"step\"><span class=\"num\">1</span><h3>对照套餐完成订阅</h3><p>打开套餐对比，确认流量、设备数和你是否需要更优先的支持通道。订阅成功后，你会得到一条订阅链接或二维码，这是后续所有客户端共用的配置来源。</p></div><div class=\"step\"><span class=\"num\">2</span><h3>下载并安装客户端</h3><p>在客户端下载区域选择与系统匹配的版本。电脑端和手机端可以共用同一条订阅，但会占用套餐标明的在线设备名额。安装时只授予代理必要的网络权限。</p></div><div class=\"step\"><span class=\"num\">3</span><h3>导入订阅并更新节点</h3><p>把订阅链接粘贴到客户端的订阅栏，保存后手动更新一次。看到节点列表后再开启系统代理或 VPN 模式。不要把链接发到群聊或公开网盘。</p></div><div class=\"step\"><span class=\"num\">4</span><h3>按场景选择节点与分流</h3><p>浏览资讯可选通用线路；流媒体遇到地区限制时再换解锁更好的节点；游戏与会议尽量避开拥挤时段并固定一条相对稳定的线路。规则可设为规则分流，让国内站点直连，减少无谓消耗。</p></div><h3>导入后的基本检查</h3><p>能打开此前无法访问的页面、客户端显示已连接、流量统计开始跳动，通常说明导入成功。若首页能开但视频卡顿，优先换节点而不是反复重装。若完全无法连接，先关掉系统自带 VPN 再试，避免多套代理叠在一起。</p></div><aside class=\"col-side\"><div class=\"panel\"><h3>使用时请记住</h3><p>订阅链接等同于账号。更换设备前先在旧设备断开，以免占满同时在线名额。流量是按套餐周期计算的，下载系统和游戏更新建议走直连。</p><p>客户端只是容器，真正决定能否打开目标网站的是订阅是否有效、节点是否可用。更新订阅后再判断，不要一出问题就更换软件。</p></div><div class=\"panel\"><h3>和「加速器」的关系</h3><p>市面上常把 VPN、梯子、加速器混称。对龙猫云而言，加速器指完成导入后的客户端连接能力：它负责把你的访问请求送到可用线路。本页同时提供官网说明、套餐对比和客户端下载，是为了把这三步放在同一阅读路径里。</p></div></aside></div><div class=\"wrap\" id=\"faq\"><h2>常见问题</h2><details><summary>龙猫云是 VPN 还是机场？</summary><p>龙猫云按机场订阅的方式提供服务：你得到的是可导入客户端的配置，而不是一个把所有线路锁死在单一封闭 App 里的产品。它具备 VPN/梯子常见的网络加速能力，但日常操作更接近「订阅更新 + 节点切换」。若你只想打开一个软件立刻连上，需要先接受一次导入过程。</p></details><details><summary>没有网络技术基础，能独立完成设置吗？</summary><p>可以。完整路径只有四步：选套餐、取订阅、下载客户端、粘贴链接并更新。第一次建议在电脑上操作，成功后再把同一订阅导入手机。卡住时优先检查复制是否完整、客户端是否选对系统，而不是修改复杂规则。</p></details><details><summary>怎样根据自己的情况挑选套餐？</summary><p>先估算一个月大概会在加速状态下看多少视频、传多少文件；再数清需要同时在线的手机、电脑和平板数量。两者都贴近较低档就从基础需求看起；经常多设备、或对流媒体解锁更在意，再去对比更高一档。具体配额只以套餐卡片为准。</p></details><details><summary>客户端下载应该选哪一个？</summary><p>以本页客户端区域列出的版本为准，按操作系统挑选即可。同一订阅可以在不同系统间使用，但不要在一台设备上同时开两个代理内核。若某个客户端界面你完全看不懂，换列表里的另一个，而不是去搜索来路不明的「破解版」。</p></details><details><summary>导入后显示已连接，页面却打不开，怎么办？</summary><p>依次检查：本地网络是否本身中断、订阅是否过期、是否刚导入还没更新节点、系统里是否还开着其他 VPN。然后换一条节点重试。浏览器若装了冲突的代理扩展，先关掉再访问。仍不行时，把客户端日志里的报错一并留给工单，比只说「连不上」更有效。</p></details><details><summary>流量用完或订阅到期会怎样？</summary><p>流量用尽或到期后，新的加速连接会不可用，已打开的直连网站一般不受影响。续费或升级后更新一次订阅即可恢复。建议把大容量系统更新和网盘备份放在直连下完成，把套餐流量留给真正需要跨境访问的场景。</p></details><details><summary>可以同时在多台设备上使用龙猫云吗？</summary><p>可以，但同时在线数量以所选自套餐的说明为准。超出后，新设备可能无法连上或会挤掉旧会话。换新手机前，先在旧设备断开或退出登录。家庭共用时，给每台设备起好备注，避免谁占用了名额都不清楚。</p></details></div></main><footer><div class=\"wrap\">龙猫云官网页面用于说明机场订阅、网络加速与客户端下载路径。套餐价格与客户端链接以页内正式模块为准。</div></footer>",
+          "hash": "52e507704e1b68ff8b4f6474f9767dfe8a07ef01198cdbd951bce2ab6583da18",
+          "seo": {
+            "title": "龙猫云官网 - 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "龙猫云,龙猫云官网,龙猫云VPN,龙猫云机场,龙猫云客户端下载,VPN梯子,网络加速,加速器,机场订阅",
+            "description": "龙猫云是面向跨境访问与日常加速的机场订阅服务介绍页，整理套餐对比、使用场景、操作说明与客户端下载入口，方便按需完成配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ikantech.com",
+    "host": "a.ikantech.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "ikantech.com",
+      "url": "https://ikantech.com/",
+      "label": "墙洞(Dler)",
+      "apex": "ikantech.com",
+      "kind": null,
+      "identity": "kayuvao/page-6405656386a9c40993ca8f81"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5ca7e386fd4199089ddb1f743af24d77de0b3dd4964ed865219d178ce2471412",
+    "sitemap.xml": "0387a9bb746b5cc5dc13dc4d6811e6737be7fa82d78a42b9e10fdd04dea6a5b7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "612cdf6e75566733c2e466af8e8a9903b007f7df6fcdd4d05d35aa2209a09d35",
+    "robots.txt": "f8ba8ced13138a7c81fd2bde437a4ebcea57eb57e769ff88107a7fb115f9ad97",
+    "b5ceb34cf0ac160dee9c39d87ec50764.txt": "2a65ca2817da83ae790acd3c014b217fba2c6daa033f2b2b3e8494019409e4ae"
+  },
+  "revision": "c1b6a12dfe858798da1408e640f7a40f58d31b3a02914e9cb98e1943523b7d71"
+}
